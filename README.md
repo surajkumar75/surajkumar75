@@ -20,7 +20,7 @@ B.Tech CSE (AI & ML) Student | Aspiring Software Engineer & Web Developer
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,ML,html,css,javascript,mongodb,git,github,vscode,dsa," />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mongodb,git,github,vscode," />
 </p>
 
 ---
