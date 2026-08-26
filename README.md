@@ -1,75 +1,130 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | Aspiring Software Engineer & Web Developer
-</h3>
+# Suraj Kumar — Personal Portfolio
 
----
+### B.Tech CSE (AI & ML) Student | Aspiring Software Engineer & Web Developer
 
-## 👨‍💻 About Me
+A responsive personal portfolio showcasing my skills, education and projects.
 
-- 🎓 Pursuing B.Tech in CSE (AI & ML)
-- 🌱 Currently learning **Java, DSA and Web Development**
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
-- 💻 Building beginner-friendly web development projects
-- 🎯 Goal: Become a skilled Software Engineer
-- 📍 Uttarakhand, India
+[![Live Portfolio](https://img.shields.io/badge/View_Live_Portfolio-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://surajkumar75.github.io/personal-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/surajkumar75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suraj-kumar-655200328)
+
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mongodb,git,github,vscode," />
-</p>
+I am pursuing a B.Tech in Computer Science and Engineering with a
+specialization in Artificial Intelligence and Machine Learning at
+Dev Bhoomi Uttarakhand University.
 
----
+I am learning software development, web development, Data Structures
+and Algorithms, and Machine Learning. My goal is to become a skilled
+software engineer and build useful real-world applications.
 
-## 🚀 Currently Working On
-
-- Java and Data Structures & Algorithms
-- Responsive web-development projects
-- Building a professional project portfolio
-- Exploring Artificial Intelligence and Machine Learning
-
----
-
-## 📊 GitHub Statistics
+## Technologies and Skills
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=surajkumar75&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Suraj Kumar GitHub Statistics"
-  />
-
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=surajkumar75&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Suraj Kumar Top Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,java,c,python,git,github,vscode" alt="Technical skills">
 </p>
 
-## 🤝 Connect With Me
+- Frontend: HTML, CSS and JavaScript
+- Backend: Node.js and Express.js
+- Database: MongoDB
+- Programming: Java, Python and C
+- Computer Science: Data Structures and Algorithms
+- Developer Tools: Git, GitHub and VS Code
 
-<p align="center">
-  I'm open to learning opportunities, project collaborations and connecting with fellow developers.
-</p>
+## Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| Personal Portfolio | Responsive website showcasing my profile, education, skills and projects | HTML, CSS, JavaScript |
+| AI Student Performance Prediction | Machine-learning project that predicts student academic performance | Python, Machine Learning, Flask |
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=surajkumar75&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Suraj Kumar GitHub statistics">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=surajkumar75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Suraj Kumar most-used languages">
 
 <p align="center">
   <a href="https://github.com/surajkumar75">
-    <img src="https://img.shields.io/badge/GitHub-Suraj_Kumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/suraj-kumar-655200328">
-    <img src="https://img.shields.io/badge/LinkedIn-Suraj_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:surajkumarraj7505187740@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://streak-stats.demolab.com/?user=surajkumar75&amp;theme=tokyonight&amp;hide_border=true&amp;timezone=Asia%2FKolkata&amp;v=2"
+      alt="Suraj Kumar GitHub Contribution Streak"
+    >
   </a>
 </p>
 
-<p align="center">
-  <i>Let's learn, build and grow together! 🚀</i>
-</p>
+</div>
+
+> GitHub statistics are calculated from public repository activity and
+> may take some time to update.
+
+## Portfolio Features
+
+- Responsive design for desktop, tablet and mobile
+- Professional hero section with profile and background images
+- Animated role typing effect
+- Education timeline
+- Skills and project cards
+- Scroll reveal animations
+- Resume view and download buttons
+- GitHub, LinkedIn and email links
+- Mobile navigation menu
+- Deployment through GitHub Pages
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/surajkumar75/personal-portfolio.git
+```
+
+Open the project folder:
+
+```bash
+cd personal-portfolio
+```
+
+Open `index.html` directly in a browser or run it using the VS Code
+Live Server extension.
+
+## Project Structure
+
+```text
+personal-portfolio/
+├── images/
+│   ├── background.jpg
+│   └── profile.jpg
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## Live Website
+
+The portfolio is deployed using GitHub Pages:
+
+**[surajkumar75.github.io/personal-portfolio](https://surajkumar75.github.io/personal-portfolio/)**
+
+## Connect With Me
+
+- GitHub: [surajkumar75](https://github.com/surajkumar75)
+- LinkedIn: [Suraj Kumar](https://www.linkedin.com/in/suraj-kumar-655200328)
+- Portfolio: [View Website](https://surajkumar75.github.io/personal-portfolio/)
+
+---
+
+<div align="center">
+
+Created by **Suraj Kumar**
+
+</div>
