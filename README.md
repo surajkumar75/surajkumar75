@@ -1,251 +1,208 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-  B.Tech CSE (AI & ML) Student • Aspiring Software Engineer • ML & Web Developer
-</h3>
+# Suraj Kumar
 
-<p align="center">
-  Building practical web applications and Machine Learning projects while strengthening
-  Data Structures & Algorithms and software engineering fundamentals.
-</p>
+### Software Engineer in Progress · Machine Learning · Full-Stack Development
 
-<p align="center">
-  <a href="https://surajkumar75.github.io/personal-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/suraj-kumar-655200328">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/surajkumar75">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+reliable+software+and+ML+applications;Developing+full-stack+web+experiences;Solving+problems+with+Java+%26+DSA;Learning.+Building.+Shipping."
+alt="Typing SVG"
+/>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning** at Dev Bhoomi Uttarakhand University.
-
-I enjoy building practical projects that combine **software development, web technologies, and Machine Learning**.
-
-- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
-- 📅 Expected Graduation — **2028**
-- 💻 Interested in **Software Engineering & Web Development**
-- 🤖 Building practical **Machine Learning applications**
-- 🧠 Practicing **Data Structures & Algorithms using Java**
-- 🌱 Currently exploring **Node.js, Express.js, MongoDB & ML deployment**
-- 📍 Uttarakhand, India
-
----
-
-## 🎯 Current Focus
-
-| Area | Currently Working On |
-|---|---|
-| 🧠 Problem Solving | Data Structures & Algorithms using Java |
-| 🌐 Web Development | Node.js, Express.js & MongoDB |
-| 🤖 Machine Learning | Model Development, Evaluation & Flask Deployment |
-| 🐍 Python | ML Applications & Backend Development |
-| 🛠️ Developer Tools | Git, GitHub & VS Code |
-
----
-
-# 🛠️ Technical Skills
-
-## Programming Languages
+<br>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <strong>B.Tech Computer Science Engineering — AI & Machine Learning</strong><br>
+  Dev Bhoomi Uttarakhand University · Class of 2028
 </p>
-
-## Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  I build practical software products combining
+  <strong>backend engineering, web development and machine learning.</strong>
 </p>
 
-## Backend & Database
+<br>
+
+<a href="https://surajkumar75.github.io/personal-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/surajkumar75">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/suraj-kumar-655200328">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-DSA-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java DSA">
+<img src="https://img.shields.io/badge/Python-Machine%20Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python ML">
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=surajkumar75&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/surajkumar75?label=Followers&style=flat-square&logo=github" alt="GitHub Followers">
+
+</div>
+
+---
+
+## About Me
+
+I'm a **B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning** at Dev Bhoomi Uttarakhand University, with a strong interest in **Software Engineering, Backend Development, and Applied Machine Learning**.
+
+I enjoy building practical applications that combine **clean software development with data-driven solutions**. My current focus is on strengthening **Data Structures & Algorithms with Java**, developing backend systems using **Node.js, Express.js, and MongoDB**, and building & deploying **Machine Learning applications with Python and Flask**.
+
+I believe in learning by building — turning concepts into **functional, deployable projects** while continuously improving my problem-solving and software engineering skills.
+
+
+Focus       → Software Engineering · Backend Development · Applied ML
+Building    → Full-Stack Applications · ML-Powered Projects
+Learning    → Java DSA · Node.js · Express.js · MongoDB
+Working With→ Python · Flask · Scikit-learn · Git & GitHub
+Goal        → Build strong, production-ready engineering skills
+
+
+
+## Technical Stack
+
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript" alt="Java, Python, C and JavaScript">
 </p>
 
-## Machine Learning & Data
+**Web & Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,flask,mongodb,sqlite" alt="Web and Backend Technologies">
 </p>
 
-## Tools & Platforms
+**Machine Learning & Data**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
 </p>
 
----
+`Data Preprocessing` · `Feature Engineering` · `Regression` · `Ensemble Learning` · `Model Evaluation` · `Data Visualization`
 
-# 🚀 Featured Projects
-
-## 🎓 AI Student Performance Predictor
-
-An **AI-powered full-stack Machine Learning web application** designed to predict student academic performance and provide useful insights to students, teachers, and administrators.
-
-The system combines Machine Learning with a Flask web application to provide predictions, academic risk analysis, recommendations, analytics, and role-based dashboards.
-
-### ✨ Key Features
-
-- 🤖 Student Performance Prediction
-- ⚠️ Academic Risk Detection
-- 📊 Prediction Confidence Estimate
-- 💡 Personalized Academic Recommendations
-- 📈 Student Progress Tracking
-- 📜 Prediction History
-- 🔍 Random Forest Feature Importance
-- 📊 Performance Analytics
-- 📉 Model Comparison
-- 📄 PDF Performance Reports
-- 📁 Bulk CSV Prediction
-- 🔐 Secure Authentication
-- 👨‍🎓 Student Dashboard
-- 👨‍🏫 Teacher Dashboard
-- 👨‍💼 Admin Dashboard
-- 🛡️ Role-Based Access Control
-
-### 🧠 Machine Learning Models
-
-| Model | Purpose |
-|---|---|
-| Linear Regression | Final Score Prediction |
-| Random Forest | Confidence Estimate & Feature Importance |
-| Gradient Boosting | Model Performance Comparison |
-
-### 📊 Model Performance
-
-| Model | MAE | RMSE | R² | CV R² |
-|---|---:|---:|---:|---:|
-| Linear Regression | 5.81 | 7.30 | 0.58 | 0.60 |
-| Random Forest | 6.12 | 7.49 | 0.56 | 0.58 |
-| Gradient Boosting | 5.96 | 7.35 | 0.58 | 0.57 |
-
-> The current model is trained on a synthetic dataset created for development and demonstration purposes.
-
-### 🛠️ Tech Stack
-
-`Python` • `Flask` • `Scikit-learn` • `Pandas` • `NumPy` • `SQLite` • `Chart.js` • `HTML` • `CSS` • `Gunicorn`
+**Development Tools**
 
 <p>
-  <a href="https://github.com/surajkumar75/AI-Student-Performance-Predictor">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
-  </a>
-
-  <a href="https://ai-student-performance-predictor-5afk.onrender.com">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open%20Application-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo">
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code">
 </p>
 
 ---
 
-## 🌐 Personal Portfolio Website
+## Featured Work
 
-A responsive personal portfolio website built to showcase my **education, technical skills, projects, and professional profile**.
+### AI Student Performance Predictor
 
-### ✨ Features
+**Machine Learning · Flask · Analytics · Role-Based Application**
 
-- Responsive Layout
-- Education Timeline
-- Technical Skills
-- Project Showcase
-- GitHub Integration
-- LinkedIn Integration
-- Contact Section
-- Typing Animation
-- Mobile Navigation
+A full-stack ML application designed to predict academic performance, identify at-risk students and provide actionable academic insights.
 
-### 🛠️ Technologies
+**Engineering highlights**
 
-`HTML5` • `CSS3` • `JavaScript`
+`ML Prediction` · `Risk Detection` · `Feature Importance` · `Analytics`
+`Role-Based Access` · `PDF Reports` · `Bulk Prediction` · `Model Comparison`
 
-<p>
-  <a href="https://surajkumar75.github.io/personal-portfolio/">
-    <img src="https://img.shields.io/badge/Live%20Demo-View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
+**Models**
 
-  <a href="https://github.com/surajkumar75/personal-portfolio">
-    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-  </a>
-</p>
+`Linear Regression` · `Random Forest` · `Gradient Boosting`
 
----
+**Stack**
 
-# 📊 GitHub Statistics
+`Python` · `Flask` · `Scikit-learn` · `Pandas` · `NumPy` · `SQLite` · `Chart.js`
 
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=surajkumar75&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Suraj Kumar GitHub Statistics">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=surajkumar75&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most Used Languages">
-</p>
+> Models currently use synthetic data for development and demonstration purposes.
+
+<a href="https://ai-student-performance-predictor-5afk.onrender.com">
+  <img src="https://img.shields.io/badge/Live%20Application-View%20Demo-238636?style=for-the-badge&logo=render&logoColor=white" alt="Live Application">
+</a>
+&nbsp;
+<a href="https://github.com/surajkumar75/AI-Student-Performance-Predictor">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
 
 ---
 
-# 🔥 Contribution Streak
+### Personal Portfolio
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=surajkumar75&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
-</p>
+**Frontend Development · Responsive Design**
 
-<p align="center">
-  <i>Statistics are generated from public GitHub activity and may take some time to update.</i>
-</p>
+Personal developer portfolio showcasing projects, technical skills, education and professional profile through a responsive interface.
 
----
+**Stack**
 
-# 🎯 Goals
+`HTML5` · `CSS3` · `JavaScript`
 
-- 📚 Strengthen Data Structures & Algorithms
-- 💻 Build production-style full-stack applications
-- 🤖 Develop practical Machine Learning projects
-- 🌐 Improve backend development skills
-- 🧠 Improve problem-solving abilities
-- 🚀 Build a strong software engineering portfolio
+<a href="https://surajkumar75.github.io/personal-portfolio/">
+  <img src="https://img.shields.io/badge/Live%20Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/surajkumar75/personal-portfolio">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source">
+</a>
 
 ---
 
-# 🤝 Connect With Me
+## GitHub Activity
 
-<p align="center">
-  <a href="https://surajkumar75.github.io/personal-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/suraj-kumar-655200328">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=surajkumar75&show_icons=true&theme=github_dark&hide_border=true" alt="Suraj Kumar GitHub Stats">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=surajkumar75&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 
-  <a href="https://github.com/surajkumar75">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=surajkumar75&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak">
+
+</div>
 
 ---
 
-<p align="center">
-  <b>💻 Learning • Building • Improving</b>
-</p>
+## Currently
 
-<p align="center">
-  Open to learning, collaboration and software development opportunities.
-</p>
+```text
+→ Strengthening Data Structures & Algorithms with Java
+→ Building backend applications with Node.js and Express
+→ Working with MongoDB and database-driven applications
+→ Developing and deploying Machine Learning projects
+→ Improving software engineering and system design fundamentals
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+**Interested in software engineering, full-stack development and applied Machine Learning.**
+
+<br>
+
+<a href="https://surajkumar75.github.io/personal-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/suraj-kumar-655200328">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/surajkumar75">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+<sub>Building one project at a time.</sub>
+
+</div>
